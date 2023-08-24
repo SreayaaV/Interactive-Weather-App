@@ -1,5 +1,3 @@
-Sure, here's a possible GitHub README file description for your Weather App project:
-
 # Weather App
 
 ![image](https://github.com/SreayaaV/Interactive-Weather-App/assets/142159625/2af7a286-36d4-4778-bc30-75541f3bccf5)
